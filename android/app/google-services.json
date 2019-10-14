@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "460878645443",
+    "firebase_url": "https://flutter-36cb3.firebaseio.com",
+    "project_id": "flutter-36cb3",
+    "storage_bucket": "flutter-36cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460878645443:android:52cbfc426938e7d7",
+        "android_client_info": {
+          "package_name": "com.example.flutte_firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmUS4c0pzu_o-zFamwJWKViivjVeGqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460878645443:android:ee8544a13e95a474a57a76",
+        "android_client_info": {
+          "package_name": "studio.kapi.fluttershare.and"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460878645443-pgeu236ln6qhvj3k3j582jau609slifb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.kapi.fluttershare.and",
+            "certificate_hash": "fd1a401d4cb10ded4e860c071faf837991d9ab1a"
+          }
+        },
+        {
+          "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmUS4c0pzu_o-zFamwJWKViivjVeGqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460878645443:android:198110965ed9d0d0a57a76",
+        "android_client_info": {
+          "package_name": "studio.kapi.homeAI.and"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmUS4c0pzu_o-zFamwJWKViivjVeGqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460878645443:android:687fae9486e1a827",
+        "android_client_info": {
+          "package_name": "waw.kapi.fbase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460878645443-shsvr302nb38nu4g0e73rqbo550rtmso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "waw.kapi.fbase_login",
+            "certificate_hash": "3b253424d2cf414e356dbaa5176e02896047ecb5"
+          }
+        },
+        {
+          "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmUS4c0pzu_o-zFamwJWKViivjVeGqrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460878645443-4hp4in2q6vapt48omopkgdr30f24oa8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

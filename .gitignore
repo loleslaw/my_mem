@@ -1,0 +1,59 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Exceptions to above rules.
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+android/app/src/main/kotlin/com/example/my_mem/MainActivity.kt
+test/widget_test.dart
+.metadata
+pubspec.lock
+README.md
+android/.gitignore
+android/.project
+android/.settings/org.eclipse.buildship.core.prefs
+android/app/.classpath
+android/app/.project
+android/app/.settings/org.eclipse.buildship.core.prefs
+ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json
+ios/Runner/Base.lproj/LaunchScreen.storyboard
+ios/Runner/Base.lproj/Main.storyboard
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+ios/Runner/AppDelegate.swift
+ios/Flutter/Debug.xcconfig
+ios/Flutter/AppFrameworkInfo.plist
+android/gradle/wrapper/gradle-wrapper.properties
